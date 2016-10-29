@@ -1,11 +1,15 @@
 beautifulsoup4==4.5.1
 bleach==1.4.3
 chardet==2.3.0
+dj-database-url==0.4.1
+dj-static==0.0.6
 Django==1.10.2
 django-contrib-comments==1.7.3
+django-toolbelt==0.0.1
 filebrowser-safe==0.4.6
 future==0.16.0
 grappelli-safe==0.4.5
+gunicorn==19.6.0
 html5lib==0.9999999
 Mezzanine==4.2.2
 oauthlib==2.0.0
@@ -15,4 +19,5 @@ pytz==2016.7
 requests==2.11.1
 requests-oauthlib==0.7.0
 six==1.10.0
+static3==0.7.0
 tzlocal==1.3
