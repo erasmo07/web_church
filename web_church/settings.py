@@ -299,6 +299,9 @@ OPTIONAL_APPS = (
 # Make these unique, and don't share it with anybody.
 SECRET_KEY = "@1#0cp-dza)0(dcf5brsc7!bob7vajheqw=49k1_nvf$z17#r7"
 
+# Honor the 'X-Forwarded-Proto' header for request.is_secure()
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
 ##################
 # LOCAL SETTINGS #
 ##################
