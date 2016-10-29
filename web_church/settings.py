@@ -149,7 +149,7 @@ DATABASES = {
         # Not used with sqlite3.
         "USER": "bxttjzbromciui",
         # Not used with sqlite3.
-        "PASSWORD": "",
+        "PASSWORD": "abmaOT_YAyOpUaLvq6pYT-27KO",
         # Set to empty string for localhost. Not used with sqlite3.
         "HOST": "ec2-50-17-220-39.compute-1.amazonaws.com",
         # Set to empty string for default. Not used with sqlite3.
